@@ -1,3 +1,6 @@
+spring：
+  profiles: dev
+
 eureka:
   client:
     service-url:
