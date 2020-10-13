@@ -1,0 +1,5 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:111111@localhost:9002/eureka/
+      
