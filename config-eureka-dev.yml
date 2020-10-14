@@ -2,4 +2,8 @@ eureka:
   client:
     service-url:
       defaultZone: http://root:111111@localhost:9001/eureka/
+    username: root #连接的用户名
+    password: 111111 #连接的密码
+
+
       
