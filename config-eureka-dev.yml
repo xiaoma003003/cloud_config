@@ -1,7 +1,7 @@
 eureka:
   client:
     service-url:
-      defaultZone: http://root:222222@localhost:9002/eureka/
+      defaultZone: http://root:222222@localhost:9001/eureka/
 datasource:
   type: com.alibaba.druid.pool.DruidDataSource
   driverClassName: com.mysql.jdbc.Driver
